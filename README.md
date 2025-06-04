@@ -245,3 +245,32 @@ Mediremos el éxito del proyecto a través de los siguientes indicadores:
 * **Satisfacción usuario:** NPS >50 y rating >4.2 estrellas.
 * **Contenido generado:** 300 posts #Salamanca Cine mensuales.
 * **Accesibilidad web:** WCAG AA compliance al 100%.
+
+
+# Conclusión y Valoración Final de las Prácticas
+
+Las prácticas de DIU25 han proporcionado una base sólida en el proceso de diseño UX, permitiendo aplicar una amplia gama de metodologías y herramientas. La estructura de las prácticas guio de manera efectiva a través de las fases clave de un proyecto UX, desde la investigación hasta la evaluación. La experiencia de diseñar y probar un producto propio fue invaluable.
+
+Sin embargo, el análisis del caso real ("Salamanca Film Commission") ha revelado la importancia de la profundidad analítica y la vinculación con principios teóricos y herramientas de auditoría en un contexto profesional. Si bien en las prácticas se aplicaron metodologías, la justificación y el rigor detrás de cada decisión, así como la interpretación de los datos (ej. el SUS score de 70.0 en prácticas podría ser "Above Average" pero no "Excellent" según el benchmark), pueden ser más exhaustivos en un escenario real.
+
+## Aspectos Aplicados de las Prácticas que fueron valiosos:
+
+- **La creación de Personas y User Journeys** fue fundamental para entender al usuario, un paso que es igualmente crítico en el análisis de cualquier sitio web existente.
+
+- **La realización de Usability Reviews y pruebas con usuarios** (SUS, Eye Tracking) es una práctica indispensable para obtener datos objetivos sobre la usabilidad, como se demostró en el análisis de los heatmap del caso B.
+
+- **El diseño de Wireframes y Mockups** es esencial para la conceptualización y visualización del producto, un proceso que precede a la implementación de cualquier mejora propuesta en un sitio real.
+
+## Aspectos del Caso Real que hubiera sido interesante aplicar en las Prácticas:
+
+- **Auditorías de Accesibilidad y Rendimiento con herramientas específicas**: La aplicación de WAVE y Google PageSpeed Insights en el análisis real proporcionó diagnósticos concretos y accionables. Esto habría enriquecido el proceso de pruebas en las prácticas, permitiendo identificar problemas técnicos más allá de la usabilidad percibida.
+
+- **Justificación de diseño basada en Leyes de UX**: Haber contextualizado cada decisión de diseño o problema identificado en las prácticas con leyes y principios de UX (ej. Ley de Hick, Fitts' Law) habría dotado al trabajo de una mayor solidez teórica y profesional.
+
+- **Profundización en la Arquitectura de Información**: La propuesta de Card Sorting en el caso real destaca la importancia de una IA centrada en el usuario, un área que podría haberse explorado con mayor profundidad en las prácticas para validar el sitemap propuesto.
+
+- **Análisis del impacto del Responsive Design con más detalle**: Aunque se consideró el responsive design en las prácticas, el análisis detallado de sus deficiencias (elementos pequeños, menús no funcionales) como en el caso real es crucial para una experiencia móvil óptima.
+
+## Reflexión Final
+
+En resumen, las prácticas han sido un excelente "campo de entrenamiento" para familiarizarse con el proceso UX. Para acercarse a un caso real, la clave reside en una mayor profundización en la justificación teórica, el uso intensivo de herramientas de auditoría para validar hipótesis, y una visión más estratégica que integre los objetivos de negocio desde las primeras fases del diseño. El proceso es un ciclo continuo de aprendizaje y adaptación, y esta experiencia ha sentado las bases para futuros desarrollos en el campo del diseño de interfaces de usuario.
