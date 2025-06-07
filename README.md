@@ -247,6 +247,28 @@ Mediremos el éxito del proyecto a través de los siguientes indicadores:
 * **Accesibilidad web:** WCAG AA compliance al 100%.
 
 
+# Prototipo Lo-Fi
+
+Como parte del desarrollo del concepto de turismo cinematográfico interactivo para Salamanca, se han diseñado dos bocetos para pantallas principales de la aplicación móvil, junto con el diseño del menú principal. La aplicación busca atraer turismo local promovido por el cine, ofreciendo una experiencia inmersiva que conecte a los visitantes con las localizaciones donde se han rodado películas y series en la ciudad.
+
+Los bocetos incluyen:
+- **Pantalla de inicio**: Diseñada para recibir al usuario con una interfaz atractiva que transmita inmediatamente el concepto de turismo cinematográfico
+- **Pantalla temática "Terminator"**: Ejemplo de cómo se presentarían las experiencias relacionadas con rodajes específicos, en este caso la famosa película que utilizó Salamanca como locación
+- **Menú de navegación**: Estructura de navegación principal que permite acceder a las diferentes funcionalidades de la aplicación
+
+Estos diseños lo-fi representan la conceptualización inicial de una plataforma que pretende revolucionar la forma en que los turistas experimentan Salamanca, transformando la ciudad en un escenario interactivo donde cada rincón cuenta la historia de las producciones audiovisuales que allí se han filmado.
+
+## Bocetos de la Aplicación
+
+### Pantalla de Inicio
+![Boceto de la pantalla de inicio](capi-lofiinciio.png)
+
+### Pantalla Temática - Terminator
+![Boceto de la pantalla temática de Terminator](cap-lofiterminator.png)
+
+### Menú de Navegación Principal
+![Boceto del menú de navegación principal](cap-lofimenu.png)
+
 # Conclusión y Valoración Final de las Prácticas
 
 Las prácticas de DIU25 han proporcionado una base sólida en el proceso de diseño UX, permitiendo aplicar una amplia gama de metodologías y herramientas. La estructura de las prácticas guio de manera efectiva a través de las fases clave de un proyecto UX, desde la investigación hasta la evaluación. La experiencia de diseñar y probar un producto propio fue invaluable.
