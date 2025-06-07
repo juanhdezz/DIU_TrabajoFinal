@@ -79,6 +79,8 @@ El sitio es parcialmente responsive; se adapta a diferentes tamaños de pantalla
 ### Arquitectura de Información
 La organización del contenido es lógica, pero podría beneficiarse de una jerarquía más clara y una mejor categorización. El sitemap del sitio, disponible en [https://octopus.do/wnknrzl2wo](https://octopus.do/wnknrzl2wo), clarifica la arquitectura de la información actual y ofrece una visión general de la estructura de la web.
 
+![Sitemap](sitemap.png)
+
 Para optimizar y mejorar esta arquitectura, se podría aplicar la técnica de **Card Sorting**. Esta técnica permite a los usuarios organizar y agrupar el contenido de una manera que les resulte lógica e intuitiva. Por ejemplo, los usuarios podrían agrupar tarjetas que representen elementos como "Localizaciones", "Permisos de rodaje", "Noticias", "Contacto", etc., en categorías que ellos mismos definirían o que les serían preestablecidas. Esto ayudaría a validar o reestructurar las categorías existentes en la sección de "Localizaciones", subdividiéndolas en "Históricas", "Naturales" y "Urbanas" o en otras categorías que emerjan de la propia lógica del usuario.
 
 **Justificación metodológica**: El **Card Sorting** es una técnica validada por la investigación en **Information Architecture**. Según los principios de [52 Weeks of UX](https://52weeksofux.com), el diseño debe reflejar el **modelo mental** del usuario, no la estructura organizacional interna. Esta técnica ayuda a alinear la arquitectura con las expectativas del usuario.
@@ -131,6 +133,9 @@ La velocidad de carga es aceptable en conexiones de banda ancha, pero podría op
 * **Evita tareas largas del hilo principal (1 tarea larga encontrada):** Tareas JavaScript largas pueden bloquear el hilo principal y hacer que la página no responda a la interacción del usuario.
 
 La mejora de estas áreas de diagnóstico es crucial para optimizar la velocidad de carga y, por ende, la experiencia del usuario, especialmente en conexiones lentas o dispositivos móviles.
+
+![Velocidad](velocidad1.png)
+![Velocidad](velocidad2.png)
 
 ---
 
@@ -192,6 +197,8 @@ La mejora de estas áreas de diagnóstico es crucial para optimizar la velocidad
 
 ---
 # Scope Canvas:
+
+([Propuesta de valor ](TrabajoFinal_scope_canvas_5_print_es.pdf))
 
 ## Propósito
 
