@@ -1,5 +1,5 @@
 
-# Executive Summary
+# Resumen ejecutivo
 La página web de Salamanca Film Commission cumple adecuadamente con su función informativa, ofreciendo recursos valiosos para profesionales del sector audiovisual interesados en rodar en Salamanca. Sin embargo, presenta áreas de mejora en cuanto a **diseño visual**, **accesibilidad** y **experiencia de usuario**. La navegación es funcional, pero podría beneficiarse de una arquitectura de información más intuitiva y un diseño responsive optimizado. Se recomienda una revisión integral basada en principios de UX y accesibilidad para mejorar la eficacia y la satisfacción del usuario.
 
 **Justificación como experto**: Este análisis se basa en los principios fundamentales de **Usability** y **User Experience Design**. Según la **Ley de Jakob** ([Laws of UX](https://lawsofux.com/jakobs-law/)), los usuarios pasan la mayor parte de su tiempo en otros sitios web, por lo que esperan que su sitio funcione de manera similar a todos los demás sitios que ya conocen. Las deficiencias identificadas violan expectativas básicas del usuario.
